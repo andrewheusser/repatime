@@ -1,0 +1,22 @@
+{
+  "name": "repatime",
+  "version": "1.0.0",
+  "description": "Code/materials for repatime project",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewheusser/repatime.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Andy Heusser, Justin Lee, Oded Bein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewheusser/repatime/issues"
+  },
+  "homepage": "https://github.com/andrewheusser/repatime#readme"
+}
