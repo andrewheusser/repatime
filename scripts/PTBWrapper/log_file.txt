@@ -1,0 +1,86 @@
+
+----------------------------------------------------------------------------
+Started at: 04-May-2012 14:37:05
+
+START	1470464.9146		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.39006
+STIM	Text	First screen	6.7383
+STIM	Blank	Blank	7.7239
+STIM	Text	Press any key	8.0079	Condition	Item Num
+STIM	Blank	Response catcher.	9.0604	Condition	Item Num
+STIM	Text	Pressed space after 1.0424 seconds.	9.3444	Condition	Item Num
+STIM	Text	Guess the character...	10.33	Condition	Item Num
+STIM	Blank	Response catcher	11.8502	Condition	Item Num
+STIM	Text	Sorry, it was p.	12.1342	Condition	Item Num
+STIM	Text	Guess the character...	13.1199	Condition	Item Num
+STIM	Text	Sorry, it was a.	14.6902	Condition	Item Num
+STIM	Blank	Blank	15.6759	Condition	Item Num
+STIM	Text	This sends the trigger 1.	16.1603	Condition	Item Num
+STIM	Blank	Trigger blank	17.146	Condition	Item Num
+STIM	Text	This sends the trigger 2, with a 100ms delay.	17.6305	Condition	Item Num
+STIM	Blank	Trigger blank	18.6161	Condition	Item Num
+STIM	Text	This sends the trigger 1 and trigger 2 100ms later	19.1006	Condition	Item Num
+STIM	Blank	Trigger blank	20.0862	Condition	Item Num
+STIM	Text	This sends the trigger 4 at display, and 8 at a key press.	20.5707	Condition	Item Num
+STIM	Blank	Trigger blank	25.2984	Condition	Item Num
+STIM	Text	Press q to send 16, p to send 32, or wait to send 64.	25.7829	Condition	Item Num
+STIM	Blank	Trigger blank	29.7923	Condition	Item Num
+STIM_PREPARE	Text	This line is from one call	-1470465.9146	Condition	Item Num
+STIM	Text	This line is from the next call	30.2767	Condition	Item Num
+STIM	Blank	Prepare blank	32.2647	Condition	Item Num
+STIM	Text	Test the exit key, if you want (probably escape).	32.7492	Condition	Item Num
+STIM	Blank	Exit blank	37.7609	Condition	Item Num
+STIM	Text	You did not hit the exit key.	38.2454	Condition	Item Num
+STIM	Blank	Exit blank	40.2334	Condition	Item Num
+STIM	Blank	Getting ready.	40.7179	Condition	Item Num
+STIM	Paragraph	Such as paragraphs	40.8181	Condition	Item Num
+STIM	Circles			45.8131	Condition	Item Num
+STIM	Blank	Circle blank	47.8011	Condition	Item Num
+STIM	Lines			48.2856	Condition	Item Num
+STIM	Blank	Line blank	50.2736	Condition	Item Num
+STIM	Gabor	Test Gabors	52.2115	Condition	Item Num
+STIM	Blank	Line blank	54.1995	Condition	Item Num
+STIM	Matrix	Test picture	54.6839	Condition	Item Num
+STIM	Blank	Picture blank	56.6719	Condition	Item Num
+STIM	Text	Hit a button to play a sound.	57.1564	Condition	Item Num
+STIM_PREPARE	Text	This is a sound.	-1470465.9146	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 04-May-2012 14:39:07
+
+START	1470587.3117		0	Condition	Item Num
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.045566	Condition	Item Num
+STIM	Text	First screen	0.34627	Condition	Item Num
+STIM	Blank	Blank	1.3319	Condition	Item Num
+STIM	Text	Press any key	1.6159	Condition	Item Num
+STIM	Blank	Response catcher.	6.611	Condition	Item Num
+STIM	Text	Pressed space after 4.9893 seconds.	6.8949	Condition	Item Num
+STIM	Text	Guess the character...	7.8806	Condition	Item Num
+STIM	Blank	Response catcher	9.3841	Condition	Item Num
+STIM	Text	Sorry, it was r.	9.6681	Condition	Item Num
+STIM	Text	Guess the character...	10.6538	Condition	Item Num
+STIM	Text	Sorry, it was p.	12.2241	Condition	Item Num
+STIM	Blank	Blank	13.2097	Condition	Item Num
+STIM	Text	This sends the trigger 1.	13.6942	Condition	Item Num
+STIM	Blank	Trigger blank	14.6799	Condition	Item Num
+STIM	Text	This sends the trigger 2, with a 100ms delay.	15.1643	Condition	Item Num
+STIM	Blank	Trigger blank	16.15	Condition	Item Num
+STIM	Text	This sends the trigger 1 and trigger 2 100ms later	16.6344	Condition	Item Num
+STIM	Blank	Trigger blank	17.6201	Condition	Item Num
+STIM	Text	This sends the trigger 4 at display, and 8 at a key press.	18.1045	Condition	Item Num
+STIM	Blank	Trigger blank	25.7558	Condition	Item Num
+STIM	Text	Press q to send 16, p to send 32, or wait to send 64.	26.2403	Condition	Item Num
+STIM	Blank	Trigger blank	29.3141	Condition	Item Num
+STIM_PREPARE	Text	This line is from one call	-1470588.3117	Condition	Item Num
+STIM	Text	This line is from the next call	29.7986	Condition	Item Num
+STIM	Blank	Prepare blank	31.7866	Condition	Item Num
+STIM	Text	Test the exit key, if you want (probably escape).	32.2711	Condition	Item Num
+STIM	Blank	Exit blank	37.2828	Condition	Item Num
+STIM	Text	You did not hit the exit key.	37.7673	Condition	Item Num
+STIM	Blank	Exit blank	39.7553	Condition	Item Num
+STIM	Blank	Getting ready.	40.2397	Condition	Item Num
+STIM	Paragraph	Such as paragraphs	40.34	Condition	Item Num
+STIM	Circles			45.335	Condition	Item Num
+STIM	Blank	Circle blank	47.323	Condition	Item Num

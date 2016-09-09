@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1169/beta/Psychtoolbox/PsychGLImageProcessing/private
+END
+NewCalibFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/NewCalibFile.m
+END
+selectcalibrationpoints.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/selectcalibrationpoints.m
+END
+DrawRectFrame.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/DrawRectFrame.m
+END
+createnewcalibrationgrid.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/createnewcalibrationgrid.m
+END
+bvlTranslateDots.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlTranslateDots.m
+END
+fineadjust.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/fineadjust.m
+END
+bvlWaitForInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlWaitForInput.m
+END
+bvlTrapezoidDots.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlTrapezoidDots.m
+END
+bvlShearDots.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlShearDots.m
+END
+BFRenderSceneUnwrap.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/BFRenderSceneUnwrap.m
+END
+bvlBarrelPincushionDots.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlBarrelPincushionDots.m
+END
+bvlDrawText.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlDrawText.m
+END
+poly2fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/poly2fit.m
+END
+bvlExpandContractDots.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlExpandContractDots.m
+END
+bvlSelectFitPts.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlSelectFitPts.m
+END
+bvlDrawCrosshair.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlDrawCrosshair.m
+END
+fit.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/fit.m
+END
+bvlAcceptCalibGuiInput.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/private/bvlAcceptCalibGuiInput.m
+END
+manual_calibrate.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1169/beta/Psychtoolbox/PsychGLImageProcessing/private/manual_calibrate.m
+END

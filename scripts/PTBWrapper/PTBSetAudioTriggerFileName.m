@@ -1,0 +1,19 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% File: PTBSetAudioTriggerFileName.m
+%
+% Sets the name of the next audio trigger file.
+%
+% Args:
+%	- name: The name to use.
+%
+% Usage: PTBSetAudioTriggerFileName({'stim_name'})
+%
+% Author: Doug Bemis
+% Date: 3/8/12
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+function PTBSetAudioTriggerFileName(name)
+
+% Set
+global PTBAudioTriggerFileName;
+PTBAudioTriggerFileName = name;

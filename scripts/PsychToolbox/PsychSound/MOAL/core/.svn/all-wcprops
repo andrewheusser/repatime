@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/core
+END
+CloseOpenAL.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/core/CloseOpenAL.m
+END
+oalconst.mat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/core/oalconst.mat
+END
+moalcore.mexmaci
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/core/moalcore.mexmaci
+END
+InitializeMatlabOpenAL.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/core/InitializeMatlabOpenAL.m
+END

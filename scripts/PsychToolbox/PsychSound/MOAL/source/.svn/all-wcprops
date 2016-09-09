@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/source
+END
+makefile_windows.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/1095/beta/Psychtoolbox/PsychSound/MOAL/source/makefile_windows.m
+END
+moalcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/moalcore.c
+END
+windowhacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/windowhacks.c
+END
+moaltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/source/moaltypes.h
+END
+al_auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/al_auto.c
+END
+al_auto_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/al_auto_init.c
+END
+makefile_intelmac
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/source/makefile_intelmac
+END
+al_manual.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/source/al_manual.c
+END
+alm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/768/beta/Psychtoolbox/PsychSound/MOAL/source/alm.c
+END
+makefile_linux
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/makefile_linux
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/makefile
+END
+oalconst.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychSound/MOAL/source/oalconst.m
+END
+makefile_octavelinux
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychSound/MOAL/source/makefile_octavelinux
+END

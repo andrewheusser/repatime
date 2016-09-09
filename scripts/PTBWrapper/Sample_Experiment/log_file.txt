@@ -1,0 +1,160 @@
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:16:04
+
+START	364087.7244		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.046087
+STIM	Blank	Blank	1.0329
+STIM	Text	Press any key	1.3339	Condition	Item Num
+STIM	Blank	Response catcher.	2.1033	Condition	Item Num
+STIM	Text	Pressed a after 0.72425 seconds.	2.4044	Condition	Item Num
+STIM	Text	Guess the character...	3.3911	Condition	Item Num
+STIM	Blank	Response catcher	4.8964	Condition	Item Num
+STIM	Text	Sorry, it was f.	5.1975	Condition	Item Num
+STIM	Text	Guess the character...	6.1843	Condition	Item Num
+STIM	Text	Sorry, it was t.	7.7063	Condition	Item Num
+STIM	Blank	Blank	8.6931	Condition	Item Num
+STIM	Text	This sends the trigger 1.	9.1948	Condition	Item Num
+STIM	Blank	Trigger blank	10.1816	Condition	Item Num
+STIM	Text	This sends the trigger 2, with a 100ms delay.	10.6834	Condition	Item Num
+STIM	Blank	Trigger blank	11.6701	Condition	Item Num
+STIM	Text	This sends the trigger 1 and trigger 2 100ms later	12.1719	Condition	Item Num
+STIM	Blank	Trigger blank	13.1587	Condition	Item Num
+STIM	Text	This sends the trigger 4 at display, and 8 at a key press.	13.6609	Condition	Item Num
+STIM	Blank	Trigger blank	13.7448	Condition	Item Num
+STIM	Text	Press q to send 16, p to send 32, or wait to send 64.	14.2468	Condition	Item Num
+STIM	Blank	Trigger blank	14.6482	Condition	Item Num
+STIM_PREPARE	Text	This line is from one call	-364088.7244	Condition	Item Num
+STIM	Text	This line is from the next call	15.149	Condition	Item Num
+STIM	Blank	Prepare blank	17.1393	Condition	Item Num
+STIM	Text	Test the exit key, if you want (probably escape).	17.6411	Condition	Item Num
+STIM	Cleanup		18.4774
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:26:58
+
+START	364741.4439		0
+Display	Stimulus	Tag	Time
+STIM	Cleanup		0.034745
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:27:11
+
+START	364754.4497		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.024509
+STIM	Blank	Blank	1.0113
+STIM	Text	Press any key	1.3126	Condition	Item Num
+STIM	Cleanup		3.2525
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:01
+
+START	364924.6452		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.025897
+STIM	Blank	Blank	1.0125
+STIM	Text	Press any key	1.3135	Condition	Item Num
+STIM	Cleanup		2.5846
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:17
+
+START	364939.8434		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.030793
+STIM	Blank	Blank	1.0176
+STIM	Text	Press any key	1.3187	Condition	Item Num
+STIM	Cleanup		2.088
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:32
+
+START	364955.5112		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.034541
+STIM	Blank	Blank	1.0213
+STIM	Text	Press any key	1.3229	Condition	Item Num
+STIM	Cleanup		1.5733
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:31:52
+
+START	365035.6457		0
+Display	Stimulus	Tag	Time
+STIM	Text	First screen	0.03103
+STIM	Blank	Blank	1.7705
+STIM	Text	Press any key	2.0715	Condition	Item Num
+STIM	Cleanup		3.0583
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:47:11
+
+START	365953.9439		0
+Display	Stimulus	Tag	Time
+STIM	Cleanup		29.1874
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:47:53
+
+START	365996.0501		0
+Display	Stimulus	Tag	Time
+STIM	Paragraph	Such as paragraphs	37.2906
+STIM	Text	First screen	42.2914
+STIM	Blank	Blank	43.2782
+STIM	Text	Press any key	43.5793	Condition	Item Num
+STIM	Cleanup		43.9138
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:51:46
+
+START	366229.4737		0
+Display	Stimulus	Tag	Time
+STIM	Paragraph	Such as paragraphs	32.5687
+STIM	Text	First screen	37.5717
+STIM	Blank	Blank	38.5731
+STIM	Text	Press any key	38.8742	Condition	Item Num
+STIM	Cleanup		39.2923
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:54:40
+
+START	366403.7307		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.27607
+STIM	Text	First screen	2.2664
+STIM	Blank	Blank	3.2532
+STIM	Text	Press any key	3.5542	Condition	Item Num
+STIM	Cleanup		3.872
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:55:15
+
+START	366438.7588		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.053259
+STIM	Cleanup		1.9265
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:55:26
+
+START	366449.2431		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.056208
+STIM	Cleanup		1.7283
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:57:25
+
+START	366568.265		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.067784
+STIM	Cleanup		2.3592
+
+----------------------------------------------------------------------------
+Started at: 01-May-2012 15:23:13
+
+START	1214035.3264		0
+Display	Stimulus	Tag	Time
+STIM	Matrix	Test picture	0.4624

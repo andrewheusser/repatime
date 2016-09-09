@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/1804/beta/Psychtoolbox/PsychGLImageProcessing
+END
+kPsychNeedOutputConversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedOutputConversion.m
+END
+kPsychAssumeTextureNormalized.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychGLImageProcessing/kPsychAssumeTextureNormalized.m
+END
+PsychVideoSwitcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/1149/beta/Psychtoolbox/PsychGLImageProcessing/PsychVideoSwitcher.m
+END
+DisplayUndistortionBezier.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychGLImageProcessing/DisplayUndistortionBezier.m
+END
+NewFastFilteredNoiseDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychGLImageProcessing/NewFastFilteredNoiseDemo.m
+END
+CreatePseudoGrayLUT.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/CreatePseudoGrayLUT.m
+END
+Add2DSeparableConvolutionToGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/repos/osxptb/!svn/ver/837/beta/Psychtoolbox/PsychGLImageProcessing/Add2DSeparableConvolutionToGLOperator.m
+END
+CreateProceduralGabor.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychGLImageProcessing/CreateProceduralGabor.m
+END
+ImagingStereoDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychGLImageProcessing/ImagingStereoDemo.m
+END
+MakeTextureDrawShader.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychGLImageProcessing/MakeTextureDrawShader.m
+END
+CountSlotsInGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/837/beta/Psychtoolbox/PsychGLImageProcessing/CountSlotsInGLOperator.m
+END
+kPsychUse32BPCFloatAsap.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/osxptb/!svn/ver/923/beta/Psychtoolbox/PsychGLImageProcessing/kPsychUse32BPCFloatAsap.m
+END
+kPsychNeedFastBackingStore.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedFastBackingStore.m
+END
+PsychHelperCreateARGB2101010RemapCLUT.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychGLImageProcessing/PsychHelperCreateARGB2101010RemapCLUT.m
+END
+kPsychNeed32BPCFloat.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/923/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeed32BPCFloat.m
+END
+SetStereoBlueLineSyncParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychGLImageProcessing/SetStereoBlueLineSyncParameters.m
+END
+kPsychNeed16BPCFloat.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeed16BPCFloat.m
+END
+Add2DConvolutionToGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/837/beta/Psychtoolbox/PsychGLImageProcessing/Add2DConvolutionToGLOperator.m
+END
+kPsychNeedFastOffscreenWindows.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/repos/osxptb/!svn/ver/858/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedFastOffscreenWindows.m
+END
+HookProcessingChains.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/795/beta/Psychtoolbox/PsychGLImageProcessing/HookProcessingChains.m
+END
+SetAnaglyphStereoParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/osxptb/!svn/ver/923/beta/Psychtoolbox/PsychGLImageProcessing/SetAnaglyphStereoParameters.m
+END
+AddImageWarpToGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/osxptb/!svn/ver/858/beta/Psychtoolbox/PsychGLImageProcessing/AddImageWarpToGLOperator.m
+END
+AddToGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/osxptb/!svn/ver/837/beta/Psychtoolbox/PsychGLImageProcessing/AddToGLOperator.m
+END
+kPsychNeedDualPass.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedDualPass.m
+END
+DisplayUndistortionBVL.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychGLImageProcessing/DisplayUndistortionBVL.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychGLImageProcessing/Contents.m
+END
+kPsychNeedImageProcessing.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedImageProcessing.m
+END
+kPsychNeedMultiPass.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedMultiPass.m
+END
+CreateGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/osxptb/!svn/ver/858/beta/Psychtoolbox/PsychGLImageProcessing/CreateGLOperator.m
+END
+VignetCalibration.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychGLImageProcessing/VignetCalibration.m
+END
+kPsychNeed16BPCFixed.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeed16BPCFixed.m
+END
+BitsPlusPlus.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/1804/beta/Psychtoolbox/PsychGLImageProcessing/BitsPlusPlus.m
+END
+kPsychNeedHalfHeightWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/938/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedHalfHeightWindow.m
+END
+moglExtractTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychGLImageProcessing/moglExtractTexture.m
+END
+DisplayUndistortionHalfCylinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychGLImageProcessing/DisplayUndistortionHalfCylinder.m
+END
+kPsychNeedDualWindowOutput.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedDualWindowOutput.m
+END
+PsychColorCorrection.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychGLImageProcessing/PsychColorCorrection.m
+END
+PsychHelperCreateGenericLuminanceToRGBA8LUT.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychGLImageProcessing/PsychHelperCreateGenericLuminanceToRGBA8LUT.m
+END
+FastFilteredNoiseDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/osxptb/!svn/ver/837/beta/Psychtoolbox/PsychGLImageProcessing/FastFilteredNoiseDemo.m
+END
+AddImageUndistortionToGLOperator.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/repos/osxptb/!svn/ver/1095/beta/Psychtoolbox/PsychGLImageProcessing/AddImageUndistortionToGLOperator.m
+END
+CreateProceduralSineGrating.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychGLImageProcessing/CreateProceduralSineGrating.m
+END
+kPsychNeedHalfWidthWindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/884/beta/Psychtoolbox/PsychGLImageProcessing/kPsychNeedHalfWidthWindow.m
+END
+PsychImaging.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/1804/beta/Psychtoolbox/PsychGLImageProcessing/PsychImaging.m
+END
+CreateDisplayWarp.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychGLImageProcessing/CreateDisplayWarp.m
+END

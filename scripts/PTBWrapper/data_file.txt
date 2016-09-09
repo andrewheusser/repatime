@@ -1,0 +1,25 @@
+
+----------------------------------------------------------------------------
+Started at: 04-May-2012 14:37:05
+
+START	1470464.9146		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	space	6.3242	6.7143	Matrix	Test picture
+KEY	space	1.0424	9.0503	Text	Press any key	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Guess the character...	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Guess the character...	Condition	Item Num
+KEY	r	4.7036	25.2743	Text	This sends the trigger 4 at display, and 8 at a key press.	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Press q to send 16, p to send 32, or wait to send 64.	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Test the exit key, if you want (probably escape).	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 04-May-2012 14:39:07
+
+START	1470587.3117		0	Condition	Item Num
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	space	0.29562	0.34119	Matrix	Test picture	Condition	Item Num
+KEY	space	4.9893	6.6052	Text	Press any key	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Guess the character...	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Guess the character...	Condition	Item Num
+KEY	5KEY	p	3.0529	29.2932	Text	Press q to send 16, p to send 32, or wait to send 64.	Condition	Item Num
+TIMEOUT	TIMEOUT	-1	-1	Text	Test the exit key, if you want (probably escape).	Condition	Item Num

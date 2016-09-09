@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychHardware/Daq
+END
+DaqReadCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqReadCode.m
+END
+DaqAOut.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAOut.m
+END
+DaqSetCal.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqSetCal.m
+END
+DaqtoolboxConfigDir.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/996/beta/Psychtoolbox/PsychHardware/Daq/DaqtoolboxConfigDir.m
+END
+DaqAInStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAInStop.m
+END
+DaqAOutScan.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychHardware/Daq/DaqAOutScan.m
+END
+DaqDConfigPort.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychHardware/Daq/DaqDConfigPort.m
+END
+DaqCalibrateAIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/996/beta/Psychtoolbox/PsychHardware/Daq/DaqCalibrateAIn.m
+END
+DaqFind.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqFind.m
+END
+DaqAInScanContinue.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAInScanContinue.m
+END
+DaqReset.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychHardware/Daq/DaqReset.m
+END
+DaqALoadQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqALoadQueue.m
+END
+DaqPrepareDownload.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqPrepareDownload.m
+END
+DaqDeviceIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqDeviceIndex.m
+END
+DaqHelp.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychHardware/Daq/DaqHelp.m
+END
+DaqSetSync.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqSetSync.m
+END
+DaqCalls.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqCalls.m
+END
+DaqAInScanEnd.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAInScanEnd.m
+END
+DaqWriteSerialNumber.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqWriteSerialNumber.m
+END
+DaqCInit.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqCInit.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/996/beta/Psychtoolbox/PsychHardware/Daq/Contents.m
+END
+DaqAIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/996/beta/Psychtoolbox/PsychHardware/Daq/DaqAIn.m
+END
+DaqGetAll.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqGetAll.m
+END
+DaqFunctions.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqFunctions.m
+END
+DaqPins.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqPins.m
+END
+DaqCIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqCIn.m
+END
+DaqMemRead.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqMemRead.m
+END
+DaqDIn.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/1630/beta/Psychtoolbox/PsychHardware/Daq/DaqDIn.m
+END
+DaqDOut.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqDOut.m
+END
+DaqAInScan.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychHardware/Daq/DaqAInScan.m
+END
+DaqDConfigPortBit.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqDConfigPortBit.m
+END
+DaqDReadBit.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqDReadBit.m
+END
+DaqAOutStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAOutStop.m
+END
+DaqSetTrigger.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqSetTrigger.m
+END
+DaqAInScanBegin.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqAInScanBegin.m
+END
+DaqGetStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqGetStatus.m
+END
+DaqBlinkLED.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqBlinkLED.m
+END
+DaqWriteCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqWriteCode.m
+END
+DaqMemWrite.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqMemWrite.m
+END
+DaqDWriteBit.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychHardware/Daq/DaqDWriteBit.m
+END
+DaqCodes.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/Daq/DaqCodes.m
+END

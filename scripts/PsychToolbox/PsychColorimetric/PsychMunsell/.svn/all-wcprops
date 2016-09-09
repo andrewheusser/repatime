@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychColorimetric/PsychMunsell
+END
+RITAllMunsellData.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/RITAllMunsellData.txt
+END
+MunsellConversionTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellConversionTest.m
+END
+MunsellGetxyY.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/1181/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellGetxyY.m
+END
+MunsellAngleToHue.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellAngleToHue.m
+END
+MunsellHueToAngle.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellHueToAngle.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/Contents.m
+END
+MunsellPreprocessTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellPreprocessTable.m
+END
+MunsellGriddata3.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/PsychMunsell/MunsellGriddata3.m
+END

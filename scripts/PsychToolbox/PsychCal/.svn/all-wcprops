@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychCal
+END
+PrimaryToGamut.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/PrimaryToGamut.m
+END
+SensorToCyl.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychCal/SensorToCyl.m
+END
+CalDataFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/996/beta/Psychtoolbox/PsychCal/CalDataFolder.m
+END
+CalibrateFitYoked.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychCal/CalibrateFitYoked.m
+END
+RefitCalYoked.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/RefitCalYoked.m
+END
+GratingNull.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/GratingNull.m
+END
+CalibratePlotGamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/CalibratePlotGamma.m
+END
+CompareMonCalOverTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/1655/beta/Psychtoolbox/PsychCal/CompareMonCalOverTime.m
+END
+SensorToSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/SensorToSettings.m
+END
+SettingsToSensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/SettingsToSensor.m
+END
+MeasureDpi.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychCal/MeasureDpi.m
+END
+GamutToSettingsSch.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/GamutToSettingsSch.m
+END
+ExpandSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/ExpandSettings.m
+END
+SetSensorColorSpace.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychCal/SetSensorColorSpace.m
+END
+GamutToSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/GamutToSettings.m
+END
+FindSpectralPeaks.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/FindSpectralPeaks.m
+END
+CalibrateAmbDrvr.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychCal/CalibrateAmbDrvr.m
+END
+MeasMonSpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/1149/beta/Psychtoolbox/PsychCal/MeasMonSpd.m
+END
+CalibrateMonSpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/CalibrateMonSpd.m
+END
+CalibratePlotSpectra.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/CalibratePlotSpectra.m
+END
+PrimaryToSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychCal/PrimaryToSettings.m
+END
+SettingsToPrimary.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/830/beta/Psychtoolbox/PsychCal/SettingsToPrimary.m
+END
+DescribeMonCal.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/1149/beta/Psychtoolbox/PsychCal/DescribeMonCal.m
+END
+ContrastMatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/ContrastMatch.m
+END
+MeasMonXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/MeasMonXYZ.m
+END
+PolarToSensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychCal/PolarToSensor.m
+END
+SaveCalFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/SaveCalFile.m
+END
+Cross3D.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/Cross3D.m
+END
+PrimaryToSensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychCal/PrimaryToSensor.m
+END
+SearchGammaTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/SearchGammaTable.m
+END
+CylToSensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychCal/CylToSensor.m
+END
+CalibratePlotAmbient.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychCal/CalibratePlotAmbient.m
+END
+CalToggleBitsPlusPlus.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychCal/CalToggleBitsPlusPlus.m
+END
+CalibrateFitGamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychCal/CalibrateFitGamma.m
+END
+CalibrateFitLinMod.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/CalibrateFitLinMod.m
+END
+RefitCalGamma.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychCal/RefitCalGamma.m
+END
+RefitCalLinMod.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/RefitCalLinMod.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/osxptb/!svn/ver/1737/beta/Psychtoolbox/PsychCal/Contents.m
+END
+CalibrateMonDrvr.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1149/beta/Psychtoolbox/PsychCal/CalibrateMonDrvr.m
+END
+LoadCalFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychCal/LoadCalFile.m
+END
+MaximizeGamutContrast.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/1641/beta/Psychtoolbox/PsychCal/MaximizeGamutContrast.m
+END
+SetGammaMethod.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/636/beta/Psychtoolbox/PsychCal/SetGammaMethod.m
+END
+FlushCalFile.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/FlushCalFile.m
+END
+GamutToSettingsTbl.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/GamutToSettingsTbl.m
+END
+SensorToSettingsAcc.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1630/beta/Psychtoolbox/PsychCal/SensorToSettingsAcc.m
+END
+SettingsToSensorAcc.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/1630/beta/Psychtoolbox/PsychCal/SettingsToSensorAcc.m
+END
+CalibrateMonitorPhotometer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/830/beta/Psychtoolbox/PsychCal/CalibrateMonitorPhotometer.m
+END
+DumpMonCalSpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/1644/beta/Psychtoolbox/PsychCal/DumpMonCalSpd.m
+END
+DropCalBits.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/421/beta/Psychtoolbox/PsychCal/DropCalBits.m
+END
+CVIAdjustCalData.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/CVIAdjustCalData.m
+END
+SensorToPolar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychCal/SensorToPolar.m
+END
+UpdateAmbientSensor.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/UpdateAmbientSensor.m
+END
+CalFormatToImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1555/beta/Psychtoolbox/PsychCal/CalFormatToImage.m
+END
+ImageToCalFormat.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1555/beta/Psychtoolbox/PsychCal/ImageToCalFormat.m
+END
+IccProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/IccProfile.m
+END
+Cross2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/Cross2D.m
+END
+CompareMonCal.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/1630/beta/Psychtoolbox/PsychCal/CompareMonCal.m
+END
+SensorToPrimary.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/SensorToPrimary.m
+END
+InvertGammaTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/574/beta/Psychtoolbox/PsychCal/InvertGammaTable.m
+END
+UpdateAmbient.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychCal/UpdateAmbient.m
+END

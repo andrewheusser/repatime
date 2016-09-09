@@ -1,0 +1,108 @@
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:16:04
+
+START	364087.7244		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	a	0.72425	2.0582	Text	Press any key	Condition	Item Num
+TIMEOUT			4.8745	Text	Guess the character...	Condition	Item Num
+TIMEOUT			7.6676	Text	Guess the character...	Condition	Item Num
+KEY	q	0.062324	13.7232	Text	This sends the trigger 4 at display, and 8 at a key press.	Condition	Item Num
+KEY	q	0.38062	14.6274	Text	Press q to send 16, p to send 32, or wait to send 64.	Condition	Item Num
+KEY	ESCAPE	0.76074	18.4018	Text	Test the exit key, if you want (probably escape).	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:26:58
+
+START	364741.4439		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:27:11
+
+START	364754.4497		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	1.9228	3.2353	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:01
+
+START	364924.6452		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	1.2447	2.5583	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:17
+
+START	364939.8434		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	0.75254	2.0712	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:30:32
+
+START	364955.5112		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	0.23281	1.5557	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:31:52
+
+START	365035.6457		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	a	1.7177	1.7487	Text	First screen
+KEY	ESCAPE	0.97303	3.0445	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:47:11
+
+START	365953.9439		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:47:53
+
+START	365996.0501		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	0.31493	43.8942	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:51:46
+
+START	366229.4737		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	0.39815	39.2723	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:54:40
+
+START	366403.7307		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	0.29134	3.8456	Text	Press any key	Condition	Item Num
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:55:15
+
+START	366438.7588		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	1.8523	1.9056	Matrix	Test picture
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:55:26
+
+START	366449.2431		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	1.6451	1.7013	Matrix	Test picture
+
+----------------------------------------------------------------------------
+Started at: 28-Feb-2012 17:57:25
+
+START	366568.265		0
+Response	Key	RT	Abs_RT	Stimulus	Tag
+KEY	ESCAPE	2.2612	2.329	Matrix	Test picture
+
+----------------------------------------------------------------------------
+Started at: 01-May-2012 15:23:13
+
+START	1214035.3264		0
+Response	Key	RT	Abs_RT	Stimulus	Tag

@@ -1,0 +1,108 @@
+
+----------------------------------------------------------------------------
+Started at: 07-Sep-2012 11:03:24
+
+START	503.2217		0
+Display	Stimulus	Tag	Time
+STIM	Blank	Blank	0.20563
+STIM_PREPARE	Paragraph	Thank you for particpating in our memory experiment today.	-504.2217
+STIM_PREPARE	Paragraph	whether or not the picture or sound represents the word well.	-504.2217
+STIM_PREPARE	Paragraph	or respond with your index finger if the picture or sound fails to do so.	-504.2217
+STIM	Paragraph	Press any key to continue.	0.93876
+STIM_PREPARE	Paragraph	Take your time and get a feel for the instructions.	-504.2217
+KEY	a	159.7934	160.7322	Paragraph	Press any key to continue.
+STIM	Paragraph	Press any key to continue.	160.7597
+KEY	a	1.7216	162.4814	Paragraph	Press any key to continue.
+STIM	Paragraph	Here's a picture trial.	162.5092
+STIM_PREPARE	Text	BULLDOZER	-504.2217
+STIM_PREPARE	Text	Here's the word ==>	-504.2217
+STIM	Matrix	BULLDOZER.bmp	165.5084
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM_PREPARE	Text	bad: 'index finger' 	-504.2217
+STIM_PREPARE	Text	^^ Here are the response cues ^^	-504.2217
+STIM	Text	Please respond to continue.	168.5075
+KEY	a	70.5324	239.0399	Text	Please respond to continue.
+STIM	Blank	Blank	239.0539
+STIM	Paragraph	Now for an example of a sound trial...	240.0536
+STIM_PREPARE	Text	GRASSHOPPER	-504.2217
+STIM_PREPARE	Text	Here's the word ==>	-504.2217
+STIM	Soundfile	/Volumes/davachilab/REMEG//stims/practice/GRASSHOPPER.wav	243.0527
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM_PREPARE	Text	bad: 'index finger' 	-504.2217
+STIM_PREPARE	Text	^^ Here are the response cues ^^	-504.2217
+STIM	Text	Please respond to continue.	246.0519
+KEY	a	51.6573	297.7092	Text	Please respond to continue.
+STIM	Blank	Blank	297.737
+STIM_PREPARE	Paragraph	Let's practice at full speed now.	-504.2217
+STIM	Paragraph	Press any key to continue.	298.7367
+KEY	a	1.7205	300.4572	Paragraph	Press any key to continue.
+STIM	Blank	Blank	300.4862
+STIM_PREPARE	Text	RAKE	-504.2217
+STIM	Soundfile	/Volumes/davachilab/REMEG//stims/practice/RAKE.wav	301.1693
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM	Text	bad: 'index finger' 	304.1685
+KEY	1	5.9836	310.1521	Text	bad: 'index finger' 
+STIM	Blank	Blank	310.1667
+STIM_PREPARE	Text	FLY	-504.2217
+STIM	Matrix	FLY.bmp	310.9165
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM	Text	bad: 'index finger' 	313.9157
+KEY	1	2.4557	316.3714	Text	bad: 'index finger' 
+STIM	Blank	Blank	316.3983
+STIM_PREPARE	Text	HOCKEY	-504.2217
+STIM	Soundfile	/Volumes/davachilab/REMEG//stims/practice/HOCKEY.wav	317.1647
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM	Text	bad: 'index finger' 	320.1639
+KEY	1	0.636	320.7999	Text	bad: 'index finger' 
+STIM	Blank	Blank	320.8137
+STIM_PREPARE	Text	SHOVEL	-504.2217
+STIM	Matrix	SHOVEL.bmp	321.5135
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM	Text	bad: 'index finger' 	324.5126
+KEY	1	1.2271	325.7397	Text	bad: 'index finger' 
+STIM	Blank	Blank	325.7623
+STIM_PREPARE	Text	WAGON	-504.2217
+STIM	Soundfile	/Volumes/davachilab/REMEG//stims/practice/WAGON.wav	326.562
+STIM_PREPARE	Text	good: 'middle finger' 	-504.2217
+STIM	Text	bad: 'index finger' 	329.5611
+KEY	1	2.421	331.9821	Text	bad: 'index finger' 
+STIM	Blank	Blank	332.0105
+STIM	Paragraph	Now we'll practice the testing phase of the experiment.	332.8102
+STIM_PREPARE	Paragraph	your LEFT MIDDLE FINGER if you recall the word being presented with a picture.	-504.2217
+STIM_PREPARE	Paragraph	your LEFT INDEX FINGER if you recall the word being presented with a sound.	-504.2217
+STIM_PREPARE	Paragraph	your RIGHT INDEX FINGER if the word is new.	-504.2217
+STIM_PREPARE	Paragraph	During testing, you will be presented a word. Your task is to respond with...	-504.2217
+STIM	Text	Please respond to see an example.	335.8094
+STIM_PREPARE	Text	picture: 'left middle'	-504.2217
+STIM_PREPARE	Text	sound: 'left index'	-504.2217
+STIM_PREPARE	Text	new word: 'right index'	-504.2217
+STIM_PREPARE	Text	Here's the word ==>	-504.2217
+STIM_PREPARE	Text	^^ Here are the response cues ^^	-504.2217
+STIM_PREPARE	Text	Please respond to continue	-504.2217
+KEY	a	112.0486	447.858	Text	Please respond to see an example.
+STIM	Text	Rake	447.877
+KEY	1	18.5145	466.3915	Text	Rake
+STIM	Paragraph	Press any key to begin the practice trials.	466.405
+STIM_PREPARE	Text	picture: 'left middle'	-504.2217
+STIM_PREPARE	Text	sound: 'left index'	-504.2217
+STIM_PREPARE	Text	new word: 'right index'	-504.2217
+KEY	1	2.022	468.427	Paragraph	Press any key to begin the practice trials.
+STIM	Text	Hockey	468.4544
+KEY	2	3.2704	471.7249	Text	Hockey
+STIM	Blank	Blank	471.7535
+STIM_PREPARE	Text	picture: 'left middle'	-504.2217
+STIM_PREPARE	Text	sound: 'left index'	-504.2217
+STIM_PREPARE	Text	new word: 'right index'	-504.2217
+STIM	Text	Fly	472.5033
+KEY	1	1.887	474.3903	Text	Fly
+STIM	Blank	Blank	474.4027
+STIM_PREPARE	Text	picture: 'left middle'	-504.2217
+STIM_PREPARE	Text	sound: 'left index'	-504.2217
+STIM_PREPARE	Text	new word: 'right index'	-504.2217
+STIM	Text	Laptop	475.1692
+TIMEOUT	TIMEOUT	-1	-1	Text	Laptop
+STIM	Blank	Blank	481.2007
+STIM_PREPARE	Text	picture: 'left middle'	-504.2217
+STIM_PREPARE	Text	sound: 'left index'	-504.2217
+STIM_PREPARE	Text	new word: 'right index'	-504.2217
+STIM	Text	Wagon	481.9505

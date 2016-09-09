@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders
+END
+Brickshader.frag
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/repos/osxptb/!svn/ver/282/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Brickshader.frag
+END
+Brickshader.vert
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/repos/osxptb/!svn/ver/282/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Brickshader.vert
+END
+Flattenshader.frag
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/repos/osxptb/!svn/ver/267/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Flattenshader.frag
+END
+Flattenshader.vert
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/repos/osxptb/!svn/ver/282/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Flattenshader.vert
+END
+Toonshader.frag
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/osxptb/!svn/ver/267/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Toonshader.frag
+END
+Toonshader.vert
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/repos/osxptb/!svn/ver/267/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Toonshader.vert
+END
+3Dlabs-License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/repos/osxptb/!svn/ver/282/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/3Dlabs-License.txt
+END
+Pointlightshader.frag
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/repos/osxptb/!svn/ver/267/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Pointlightshader.frag
+END
+Pointlightshader.vert
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/repos/osxptb/!svn/ver/267/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/Pointlightshader.vert
+END
+ParticleSimple.vert
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/repos/osxptb/!svn/ver/1353/beta/Psychtoolbox/PsychDemos/OpenGL4MatlabDemos/GLSLDemoShaders/ParticleSimple.vert
+END

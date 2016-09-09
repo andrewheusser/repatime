@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychFiles
+END
+QuoteString.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/454/beta/Psychtoolbox/PsychFiles/QuoteString.m
+END
+LiteralUnderscore.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/437/beta/Psychtoolbox/PsychFiles/LiteralUnderscore.m
+END
+LogVar.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychFiles/LogVar.m
+END
+WriteStructsToText.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/437/beta/Psychtoolbox/PsychFiles/WriteStructsToText.m
+END
+FolderFromFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychFiles/FolderFromFolder.m
+END
+ReadStructsFromText.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/1149/beta/Psychtoolbox/PsychFiles/ReadStructsFromText.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychFiles/Contents.m
+END
+PsychHomeDir.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychFiles/PsychHomeDir.m
+END
+FileFromFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychFiles/FileFromFolder.m
+END
+CheckDirs.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychFiles/CheckDirs.m
+END
+PsychSaveAsEps.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/1026/beta/Psychtoolbox/PsychFiles/PsychSaveAsEps.m
+END
+Var2Str.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychFiles/Var2Str.m
+END
+DirList.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/repos/osxptb/!svn/ver/1245/beta/Psychtoolbox/PsychFiles/DirList.m
+END
+ReplaceLineTerminators.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychFiles/ReplaceLineTerminators.m
+END
+FindFolder.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/repos/osxptb/!svn/ver/437/beta/Psychtoolbox/PsychFiles/FindFolder.m
+END
+BreakLines.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychFiles/BreakLines.m
+END
+PsychtoolboxConfigDir.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychFiles/PsychtoolboxConfigDir.m
+END

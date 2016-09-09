@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/1804/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox
+END
+BitsPlusGray.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusGray.m
+END
+BitsPlusDecodeClutRow.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusDecodeClutRow.m
+END
+BitsPlusMonoPackTest.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusMonoPackTest.m
+END
+BitsPlusPackMonoImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusPackMonoImage.m
+END
+BitsPlusClut2Texture.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/osxptb/!svn/ver/768/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusClut2Texture.m
+END
+BitsPlusWriteClutRow.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusWriteClutRow.m
+END
+BitsPlusEncodeClutRow.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusEncodeClutRow.m
+END
+BitsPlusDIO2Texture.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/938/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusDIO2Texture.m
+END
+BitsPlusPackColorImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusPackColorImage.m
+END
+BitsPlusDIO2Matrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/repos/osxptb/!svn/ver/1062/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusDIO2Matrix.m
+END
+BitsPlusSetClut.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/703/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusSetClut.m
+END
+bitsGoggles.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/bitsGoggles.m
+END
+BitsPlusMovieDemo.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusMovieDemo.m
+END
+bitsEncodeDIO.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/938/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/bitsEncodeDIO.m
+END
+BitsPlusUnlockCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusUnlockCode.m
+END
+BitsPlusBlank.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusBlank.m
+END
+BitsPlusSetColor.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/osxptb/!svn/ver/563/beta/Psychtoolbox/PsychHardware/BitsPlusToolbox/BitsPlusSetColor.m
+END

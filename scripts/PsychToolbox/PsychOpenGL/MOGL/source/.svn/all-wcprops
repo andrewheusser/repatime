@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychOpenGL/MOGL/source
+END
+glew.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/248/beta/Psychtoolbox/PsychOpenGL/MOGL/source/glew.c
+END
+gl_manual.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychOpenGL/MOGL/source/gl_manual.c
+END
+castDouble2Float.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychOpenGL/MOGL/source/castDouble2Float.cc
+END
+octavemex.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/374/beta/Psychtoolbox/PsychOpenGL/MOGL/source/octavemex.h
+END
+makefile_windows.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/1485/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_windows.m
+END
+autono.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychOpenGL/MOGL/source/autono.txt
+END
+oglconst.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/248/beta/Psychtoolbox/PsychOpenGL/MOGL/source/oglconst.m
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/248/beta/Psychtoolbox/PsychOpenGL/MOGL/source/glew.h
+END
+makefile_octavemaci.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/repos/osxptb/!svn/ver/768/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_octavemaci.txt
+END
+moglcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychOpenGL/MOGL/source/moglcore.c
+END
+mogl_rebinder.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/osxptb/!svn/ver/1032/beta/Psychtoolbox/PsychOpenGL/MOGL/source/mogl_rebinder.c
+END
+makefile_linux_ubuntugutsy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/983/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_linux_ubuntugutsy
+END
+makefile_linux
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/768/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_linux
+END
+makefile_octavelinux
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/osxptb/!svn/ver/1032/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_octavelinux
+END
+gl_auto_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/228/beta/Psychtoolbox/PsychOpenGL/MOGL/source/gl_auto_init.c
+END
+autocode.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/674/beta/Psychtoolbox/PsychOpenGL/MOGL/source/autocode.m
+END
+glm.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychOpenGL/MOGL/source/glm.c
+END
+mogloctaveglue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychOpenGL/MOGL/source/mogloctaveglue.cc
+END
+windowhacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/1445/beta/Psychtoolbox/PsychOpenGL/MOGL/source/windowhacks.c
+END
+makefile_maci
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/1026/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_maci
+END
+mogltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychOpenGL/MOGL/source/mogltypes.h
+END
+gl_auto.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/1705/beta/Psychtoolbox/PsychOpenGL/MOGL/source/gl_auto.c
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/248/beta/Psychtoolbox/PsychOpenGL/MOGL/source/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/248/beta/Psychtoolbox/PsychOpenGL/MOGL/source/glxew.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/768/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile
+END
+makefile_windows_r2007a.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/osxptb/!svn/ver/1485/beta/Psychtoolbox/PsychOpenGL/MOGL/source/makefile_windows_r2007a.m
+END

@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric
+END
+EnergyToCones.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/EnergyToCones.m
+END
+SRGBGammaUncorrect.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric/SRGBGammaUncorrect.m
+END
+RetIrradianceToTrolands.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/RetIrradianceToTrolands.m
+END
+FToRatio.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/FToRatio.m
+END
+IsomerizationsFromAbsorptions.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/IsomerizationsFromAbsorptions.m
+END
+SampleSphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SampleSphere.m
+END
+WlsToS.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/WlsToS.m
+END
+uvTols.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/uvTols.m
+END
+ShiftSpectra.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ShiftSpectra.m
+END
+MakeItWls.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeItWls.m
+END
+XYZTouvY.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychColorimetric/XYZTouvY.m
+END
+SPDToLinSPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/927/beta/Psychtoolbox/PsychColorimetric/SPDToLinSPD.m
+END
+CheckWls.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/CheckWls.m
+END
+XYZToF.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/XYZToF.m
+END
+GenerateBlackBody.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/GenerateBlackBody.m
+END
+RadianceToRetIrradiance.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/547/beta/Psychtoolbox/PsychColorimetric/RadianceToRetIrradiance.m
+END
+LxxToY.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LxxToY.m
+END
+xyYToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1494/beta/Psychtoolbox/PsychColorimetric/xyYToXYZ.m
+END
+uvToxy.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/uvToxy.m
+END
+xyTouv.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/xyTouv.m
+END
+SRGBPrimaryToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric/SRGBPrimaryToXYZ.m
+END
+PhotonAbsorptionRate.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/PhotonAbsorptionRate.m
+END
+ContrastToExcitation.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ContrastToExcitation.m
+END
+LjgToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LjgToXYZ.m
+END
+FindCovLinMod.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/FindCovLinMod.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1176/beta/Psychtoolbox/PsychColorimetric/Contents.m
+END
+M_PToP.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/M_PToP.m
+END
+SplineSpd.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SplineSpd.m
+END
+uvYToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1754/beta/Psychtoolbox/PsychColorimetric/uvYToXYZ.m
+END
+M_TToP.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/M_TToP.m
+END
+WattsToRetIrradiance.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/WattsToRetIrradiance.m
+END
+M_PToT.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/M_PToT.m
+END
+MakeGaussBasis.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeGaussBasis.m
+END
+SampleCircle.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SampleCircle.m
+END
+SPDToMetSPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SPDToMetSPD.m
+END
+M_TToT.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/M_TToT.m
+END
+XYZToxyY.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1494/beta/Psychtoolbox/PsychColorimetric/XYZToxyY.m
+END
+GenerateCIEDay.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/GenerateCIEDay.m
+END
+MakeMonoPrimary.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeMonoPrimary.m
+END
+DKLToConeInc.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/DKLToConeInc.m
+END
+ConeIncToDKL.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ConeIncToDKL.m
+END
+LabToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LabToXYZ.m
+END
+XYZToLab.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/XYZToLab.m
+END
+RetIrradianceToIsoRecSec.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/RetIrradianceToIsoRecSec.m
+END
+MakeItStruct.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeItStruct.m
+END
+XYZToSRGBPrimary.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric/XYZToSRGBPrimary.m
+END
+ComputeDKL_M.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/421/beta/Psychtoolbox/PsychColorimetric/ComputeDKL_M.m
+END
+TrolandsToRetIrradiance.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/TrolandsToRetIrradiance.m
+END
+LumToRadiance.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LumToRadiance.m
+END
+FindModelWeights.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/FindModelWeights.m
+END
+WlsToT.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/514/beta/Psychtoolbox/PsychColorimetric/WlsToT.m
+END
+LjgToXYZFun.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LjgToXYZFun.m
+END
+SplineRaw.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SplineRaw.m
+END
+ContrastToIncrement.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ContrastToIncrement.m
+END
+QuantaToEnergy.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/QuantaToEnergy.m
+END
+EnergyToQuanta.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/EnergyToQuanta.m
+END
+XYZTouv.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/XYZTouv.m
+END
+EffectiveTrolandsFromLum.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/EffectiveTrolandsFromLum.m
+END
+MakeUnitLength.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeUnitLength.m
+END
+SRGBGammaCorrect.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric/SRGBGammaCorrect.m
+END
+LuvToXYZ.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LuvToXYZ.m
+END
+XYZToLuv.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/XYZToLuv.m
+END
+ComputeDE.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ComputeDE.m
+END
+ExcitationToContrast.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ExcitationToContrast.m
+END
+MakeOrtho.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeOrtho.m
+END
+XYZToLjg.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/1783/beta/Psychtoolbox/PsychColorimetric/XYZToLjg.m
+END
+SToWls.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SToWls.m
+END
+MakeFourierBasis.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeFourierBasis.m
+END
+ComputeAxialDensity.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/ComputeAxialDensity.m
+END
+MakeItS.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/MakeItS.m
+END
+LumToRetIrradiance.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LumToRetIrradiance.m
+END
+SplineSrf.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/SplineSrf.m
+END
+IncrementToContrast.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/IncrementToContrast.m
+END
+AbsorbanceToAbsorbtance.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/AbsorbanceToAbsorbtance.m
+END
+TrolandsToLum.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/TrolandsToLum.m
+END
+LMSToMacBoyn.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LMSToMacBoyn.m
+END
+LumToTrolands.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/LumToTrolands.m
+END
+TriToMetSPD.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/TriToMetSPD.m
+END
+SplineCmf.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/421/beta/Psychtoolbox/PsychColorimetric/SplineCmf.m
+END
+FindLinMod.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/osxptb/!svn/ver/21/beta/Psychtoolbox/PsychColorimetric/FindLinMod.m
+END
